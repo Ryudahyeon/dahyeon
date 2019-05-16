@@ -1,4 +1,4 @@
-// 17018031 류다현 java_Calculator
+#17018031 류다현 java_Calculator
 
 import javax.swing.JFrame;
 import javax.swing.JTextField;

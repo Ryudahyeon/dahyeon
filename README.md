@@ -1,5 +1,3 @@
-#17018031 류다현 java_Calculator
-
 import javax.swing.JFrame;
 import javax.swing.JTextField;
 import javax.swing.JPanel;
